@@ -58,6 +58,3 @@ In progress
 <h2>Copyright 2025</h2>
 This project is licensed under the terms of the MIT license
  and protected by The Knowledge House Honor Code and Community Code of Conduct.
-
-
-this is a test change to the README
